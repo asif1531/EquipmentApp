@@ -1,0 +1,4 @@
+ID,name,type_code,location_code,manufacturer,status_code
+a1234567-e89b-12d3-a456-426614174001,Main AC Unit A,HVAC,BLDG-A,Carrier,ACTV
+a1234567-e89b-12d3-a456-426614174002,Warehouse Forklift,ELEC,WHSE-1,Toyota,MNT
+a1234567-e89b-12d3-a456-426614174003,Lobby Water Pipe,PLMB,BLDG-B,Kohler,BRK

@@ -1,0 +1,4 @@
+code,name,criticality
+ACTV,Active,3
+MNT,In Maintenance,2
+BRK,Broken,1

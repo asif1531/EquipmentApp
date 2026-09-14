@@ -1,0 +1,4 @@
+ID,name,username,email,role_code,createdAt,createdBy,modifiedAt,modifiedBy
+e1234567-e89b-12d3-a456-426614174001,Alice Smith,asmith,alice@example.com,ADMIN
+e1234567-e89b-12d3-a456-426614174002,Bob Jones,bjones,bob@example.com,TECH
+e1234567-e89b-12d3-a456-426614174003,Charlie Brown,cbrown,charlie@example.com,USER

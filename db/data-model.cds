@@ -8,8 +8,8 @@ using {
 entity Equipments : cuid, managed {
     name         : String @title: 'Name';
     type         : Association to EquipmentTypes;
-    location     : Association to locations;
-    manufacturer : String;
+    location     : Association to Locations;
+    manufacturer : String @title : 'Manufacturer';
     status       : Association to EquipmentStatus;
     task         : Composition of many Tasks
                        on task.equipment = $self;
@@ -64,15 +64,16 @@ entity IssueStatus {
 
 entity EquipmentTypes {
     key code : String(10);
-        name : String(100);
+        name : String(100) @title : 'Equipment Name';
 }
 
-entity locations {
+entity Locations {
     key code : String(10);
-        name : String(100);
+        name : String(100) @title : 'Location';
 }
 
 entity EquipmentStatus {
     key code : String(10);
-        name : String(100);
+        name : String(100) @title : 'Status';
+        criticality: Integer;
 }

@@ -1,0 +1,3 @@
+ID,description,status_code,equipment_ID,reportedBy_ID,createdAt,createdBy,modifiedAt,modifiedBy
+i1234567-e89b-12d3-a456-426614174001,Pipe leaking in main lobby,OPEN,a1234567-e89b-12d3-a456-426614174003,e1234567-e89b-12d3-a456-426614174003
+i1234567-e89b-12d3-a456-426614174002,Forklift turning on slowly,INVS,a1234567-e89b-12d3-a456-426614174002,e1234567-e89b-12d3-a456-426614174003

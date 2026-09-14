@@ -1,0 +1,3 @@
+ID,description,dueDate,priority_code,status_ID,equipment_ID,assignedTo_ID,createdAt,createdBy,modifiedAt,modifiedBy
+t1234567-e89b-12d3-a456-426614174001,Quarterly Filter Replacement,2023-12-01,MED,NEW,a1234567-e89b-12d3-a456-426614174001,e1234567-e89b-12d3-a456-426614174002
+t1234567-e89b-12d3-a456-426614174002,Battery Inspection,2023-11-15,LOW,INPRG,a1234567-e89b-12d3-a456-426614174002,e1234567-e89b-12d3-a456-426614174002
