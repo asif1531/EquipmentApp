@@ -1,0 +1,166 @@
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:30.417562] Added process: "web" (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:30.426327] Created app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:30.510986] Updating process: "web" (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:30.572893] Scaling process: "web" (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:48.731611] Uploading app package for app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:48.961964] Updated app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:58.780262] Creating build for app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 (STDOUT, API)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:59.289927] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:59.334828] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:02:59.334942] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 5f8b9642-19ef-4446-8f71-70898d2f8866 (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:00.184920] Security group rules were updated (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:00.323122] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 5f8b9642-19ef-4446-8f71-70898d2f8866 (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:00.655897] Downloading app package... (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:01.301769] Downloaded app package (3.5M) (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:01.431611] -----> Nodejs Buildpack version 1.9.3 (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:01.761086] -----> Bootstrapping python (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:01.761119] -----> Installing python 3.13.14 (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:01.761160] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/4b4266a2ff36730aef37b88b668ca327/python_3.13.14_linux_x64_cflinuxfs4_b80d4954.tgz] (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:06.901753] -----> Installing binaries (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:06.901815] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:06.901822] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:06.901974] -----> Installing node 24.18.0 (STDOUT, STG)#
+#2026 09 14 09:03:08.511#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35819#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:06.902257] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/dffbbb835fcd073c4544f78eb6247fac/node_24.18.0_linux_x64_cflinuxfs4_cdfed650.tgz] (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.002716] Using default npm version: 11.16.0 (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.002768] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.003072] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.472457] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.472567] -----> Creating runtime environment (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475437] NODE_ENV=production (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475466] NODE_HOME=/tmp/contents2991630333/deps/0/node (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475472] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475475] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475478] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475481] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475484] -----> Building dependencies (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475486] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:10.475490] Rebuilding any native modules (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.307985] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.310471] npm notice (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.310504] npm notice New major version of npm available! 11.16.0 -> 12.0.2 (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.310512] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2 (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.310515] npm notice To update run: npm install -g npm@12.0.2 (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.310518] npm notice (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:11.383502] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:12.347597] up to date in 856ms (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:12.347883] 30 packages are looking for funding (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:12.347926] run `npm fund` for details (STDOUT, STG)#
+#2026 09 14 09:03:18.606#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-16397#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:13.290276] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 09 14 09:03:28.651#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35831#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:25.435609] Exit status 0 (STDOUT, STG)#
+#2026 09 14 09:03:28.651#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35831#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:25.435690] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 09 14 09:03:28.651#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35831#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:25.435740] Uploading droplet... (STDOUT, STG)#
+#2026 09 14 09:03:28.651#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35831#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:25.435802] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 09 14 09:03:28.651#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35831#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:25.461414] Uploaded build artifacts cache (218B) (STDOUT, STG)#
+#2026 09 14 09:03:28.651#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35831#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:26.195225] Creating droplet for app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 (STDOUT, API)#
+#2026 09 14 09:03:38.626#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35835#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:29.264278] Uploaded droplet (60M) (STDOUT, STG)#
+#2026 09 14 09:03:38.626#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35835#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:29.290758] Uploading complete (STDOUT, STG)#
+#2026 09 14 09:03:38.626#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35835#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:30.045699] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 5f8b9642-19ef-4446-8f71-70898d2f8866 (STDOUT, STG)#
+#2026 09 14 09:03:38.626#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35835#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:30.045759] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 5f8b9642-19ef-4446-8f71-70898d2f8866 (STDOUT, STG)#
+#2026 09 14 09:03:38.626#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35835#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:30.096613] Staging complete for build 5f8b9642-19ef-4446-8f71-70898d2f8866 (STDOUT, API)#
+#2026 09 14 09:03:38.626#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35835#
+[PollStageAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:33.437800] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 5f8b9642-19ef-4446-8f71-70898d2f8866 (STDOUT, STG)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:38.695684] Updated app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 ({:droplet_guid=>"e1b5cb87-3e13-4b29-a854-7bc1c92fc255"}) (STDOUT, API)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:39.011777] Creating revision for app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 (STDOUT, API)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:39.051966] Starting app with guid 51d079a6-6484-4baa-9993-159b6245d7b1 (STDOUT, API)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:39.454564] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance e1b00232-f25d-4467-7066-1d81 (STDOUT, CELL)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:40.371730] Security group rules were updated (STDOUT, CELL)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:40.497455] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance e1b00232-f25d-4467-7066-1d81 (STDOUT, CELL)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:41.318483] Downloading droplet... (STDOUT, CELL)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:45.922447] Downloaded droplet (60M) (STDOUT, CELL)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:45.922950] Starting health monitoring of container (STDOUT, CELL)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:46.110820] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:46.370821] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:46.961475] > EquipmentManageApp@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:46.961507] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.403553] {"level":"info","logger":"cds","timestamp":"2026-09-14T09:03:47.401Z","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","msg":"loaded model from 1 file(s):\n ","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.403988] srv/csn.json (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.738252] {"level":"info","logger":"cds","timestamp":"2026-09-14T09:03:47.737Z","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","msg":"connect to db > hana {\n  database_id: '476fd31a-f501-456d-9eb8-78498eb9b781',\n  host: '476fd31a-f501-456d-9eb8-78498eb9b781.hna0.prod-us10.hanacloud.ondemand.com',\n  port: '443',\n  driver: 'com.sap.db.jdbc.Driver',\n  url: 'jdbc:sap://476fd31a-f501-456d-9eb8-78498eb9b781.hna0.prod-us10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=B4EDFCCF62F3427D9D37A6DB091C83B9',\n  schema: 'B4EDFCCF62F3427D9D37A6DB091C83B9',\n  certificate: '...',\n  hdi_user: 'B4EDFCCF62F3427D9D37A6DB091C83B9_0UVAGE35V9NHSPSDLUNXCQS26_DT',\n  hdi_password: '...',\n  user: 'B4EDFCCF62F3427D9D37A6DB091C83B9_0UVAGE35V9NHSPSDLUNXCQS26_RT',\n  password: '...'\n}","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.803390] {"level":"info","logger":"cds","timestamp":"2026-09-14T09:03:47.802Z","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","msg":"using auth strategy { kind: 'xsuaa' }","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.850506] {"level":"info","logger":"cds","timestamp":"2026-09-14T09:03:47.849Z","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","msg":"serving AdminEquipmentService {\n  at: [ '/odata/v4/admin-equipment' ],\n  decl: 'srv/csn.json:562'\n}","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.859214] {"level":"info","logger":"cds","timestamp":"2026-09-14T09:03:47.858Z","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","msg":"server listening on { url: 'http://localhost:8080' }","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:47.860761] {"level":"info","logger":"cds","timestamp":"2026-09-14T09:03:47.860Z","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","msg":"server v10.1.0 launched in 884 ms","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 09 14 09:03:48.683#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-35848#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:48.070077] {"level":"warn","logger":"queue","correlation_id":"313424c6-eada-464a-9565-40ccff63496a","timestamp":"2026-09-14T09:03:48.068Z","msg":"Failed to fetch targets for flush invalid table name:  Could not find table/view CDS_OUTBOX_MESSAGES in schema B4EDFCCF62F3427D9D37A6DB091C83B9: line 1 col 53 (at pos 52)","message":"invalid table name:  Could not find table/view CDS_OUTBOX_MESSAGES in schema B4EDFCCF62F3427D9D37A6DB091C83B9: line 1 col 53 (at pos 52)","code":259,"sqlState":"HY000","position":52,"query":"WITH \"$TA0\" as (SELECT \"$M\".target as \"target\" FROM cds_outbox_Messages as \"$M\" GROUP BY \"$M\".target) SELECT '$[0' as \"_path_\",'{}' as \"_blobs_\",'{}' as \"_expands_\",(SELECT \"target\" FROM JSON_TABLE('{}', '$' COLUMNS(\"'$$FaKeDuMmYCoLuMn$$'\" FOR ORDINALITY)) FOR JSON ('format'='no', 'omitnull'='no', 'arraywrap'='no') RETURNS NVARCHAR(2147483647)) as \"_json_\" FROM \"$TA0\" ORDER BY \"_path_\" ASC","layer":"cds","component_type":"application","container_id":"10.32.3.6","component_id":"51d079a6-6484-4baa-9993-159b6245d7b1","component_name":"EquipmentManageApp-srv","component_instance":0,"source_instance":0,"organization_name":"29b2622ctrial","organization_id":"a80f599e-2909-4a3c-b903-f5553f3e0e30","space_name":"dev","space_id":"f121d2e9-b2ba-49c6-8e78-846db21744e9","type":"log"} (STDERR, APP/PROC/WEB)#
+#2026 09 14 09:03:58.721#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-12292#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:49.048866] Container became healthy (STDOUT, CELL)#
+#2026 09 14 09:03:58.721#Z#DEBUG#f9c5211a-b01a-11f1-b640-eeee0a85504e.EquipmentManageApp-srv#flowable-async-job-executor-thread-12292#
+[PollStartAppStatusExecution] 51d079a6-6484-4baa-9993-159b6245d7b1 [2026-09-14T09:03:49.074746] Process became ready with guid 51d079a6-6484-4baa-9993-159b6245d7b1 payload: {"instance"=>"e1b00232-f25d-4467-7066-1d81", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "ready"=>true, "version"=>"6eabac75-5eff-4f47-8487-0b6a94bf1a77"} (STDOUT, API)#

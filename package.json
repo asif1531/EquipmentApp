@@ -1,23 +1,39 @@
 {
-  "name": "EquipmentManageApp",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@sap/cds": "^10"
-  },
-  "devDependencies": {
-    "@cap-js/sqlite": "^3",
-    "cds-plugin-ui5": "^0.17.0"
-  },
-  "scripts": {
-    "start": "cds-serve",
-    "watch-equipment_manage_admin": "cds watch --open com.fiori.app.equipmentmanageadmin/index.html?sap-ui-xx-viewCache=false --livereload false"
-  },
-  "private": true,
-  "workspaces": [
-    "app/*"
-  ],
-  "sapux": [
-    "app/equipment_manage_admin"
-  ]
+	"name": "EquipmentManageApp",
+	"version": "1.0.0",
+	"type": "module",
+	"dependencies": {
+		"@cap-js/hana": "^3",
+		"@sap/cds": "^10",
+		"@sap/xssec": "^4"
+	},
+	"devDependencies": {
+		"@cap-js/sqlite": "^3",
+		"@sap/cds-dk": "^10",
+		"cds-plugin-ui5": "^0.17.0",
+		"@sap/dev-cap-tools": "^1.31.0"
+	},
+	"scripts": {
+		"start": "cds-serve",
+		"watch-equipment_manage_admin": "cds watch --open com.fiori.app.equipmentmanageadmin/index.html?sap-ui-xx-viewCache=false --livereload false"
+	},
+	"private": true,
+	"workspaces": [
+		"app/*"
+	],
+	"sapux": [
+		"app/equipment_manage_admin"
+	],
+	"cds": {
+		"requires": {
+			"[production]": {
+				"db": "hana",
+				"auth": "xsuaa"
+			},
+			"[development]": {
+                "db": "hana",
+                "auth": "mocked"
+            }
+		}
+	}
 }
